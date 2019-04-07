@@ -7,7 +7,7 @@ Airbnb is a digital accomodation marketplace founded in 2008. It links hosts and
 ##### 3. What are the main price drivers for Airbnb listings in these two cities?
 
 
-### Methodical Approach of the Analysis:
+#### Methodical Approach of the Analysis:
 Cross Industry Standard Process for Data Mining (CRISP-DM):
 
 ###### I.   Business Understanding
@@ -17,7 +17,7 @@ Cross Industry Standard Process for Data Mining (CRISP-DM):
 ###### V.   Evaluation
 
 
-Python Libraries used for the Project:
+#### Python Libraries used for the Project:
 - Numpy
 - Pandas
 - Matplotlib
