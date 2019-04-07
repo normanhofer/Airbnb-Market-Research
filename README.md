@@ -6,6 +6,7 @@ Airbnb is a digital accomodation marketplace founded in 2008. It links hosts and
 ##### 2. Which are the most expensive neighbourhoods? And in which neighbourhoods most accomodations are offered?
 ##### 3. What are the main price drivers for Airbnb listings in these two cities?
 
+
 Methodical Approach of the Analysis:
 Cross Industry Standard Process for Data Mining (CRISP-DM):
 
@@ -14,6 +15,7 @@ Cross Industry Standard Process for Data Mining (CRISP-DM):
 ###### III. Data Preparation
 ###### IV.  Modeling
 ###### V.   Evaluation
+
 
 Python Libraries used for the Project:
 - Numpy
