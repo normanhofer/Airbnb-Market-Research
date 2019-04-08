@@ -1,5 +1,5 @@
 # Airbnb-Market-Research
-
+###### Link to the corresponding Medium Blog Post: xxx
 Airbnb is a digital accomodation marketplace founded in 2008. It links hosts and travellers across more than 1,000 markets around the world (Airbnb Incorporated, "About us", https://press.airbnb.com/about-us/, 31.03.2019). This analysis relies on Boston's and Seattle's public Airbnb data and uses the methods of advanced analytics to answer the following business questions:
 
 1. What is the market situation like in both cities? Are there differences?
